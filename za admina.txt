@@ -1,0 +1,1 @@
+CREATE (n:Majstor {username: 'admin', password:'admin'}) return n
